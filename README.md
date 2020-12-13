@@ -1,2 +1,2 @@
 # InternetU
-Activities for self-study in many fields of knowledge. Free.
+Activities for self-study in many fields of knowledge. 
