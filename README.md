@@ -5,6 +5,6 @@ Especificaciones para editores: doc/README.pdf
 
 Estructura de directorios:
 
-doc/ documentación del proyecto
-edu/ contenidos
+* doc/ documentación del proyecto
+* edu/ contenidos
 
